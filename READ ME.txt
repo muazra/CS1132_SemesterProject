@@ -1,0 +1,20 @@
+If you decide to run this program on your own computer, make sure you make the following changes for it to be able to work correctly:
+
+1)Skim through the code and every time you see a file path specification, make sure you specify the correct location, corresponding to a path on your computer under YOUR username. However, do keep the file names intact. I would recommend just simply changing the file path to your desktop. 
+
+For example:
+
+We currently have the path set up as this on the code: (this is a MAC OS PATH *IMPORTANT). 
+
+/Users/Muaz/Desktop/LoginProfile"
+
+If you have a MAC just simply change it to your username, so thus it will become:
+
+/Users/(YOUR USERNAME)/Desktop/LoginProfile"
+
+
+2)Make sure to also copy and paste all the text files from the attached folder “Necessary Text Files” in the same location as all the other text files.
+
+**If you have followed all these directions correctly, the program should work without a fault. If for any reason you are having any problems or issues, feel free to reach out to me at: muazra@gmail.com
+
+Thank you.
