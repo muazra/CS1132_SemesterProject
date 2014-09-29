@@ -1,4 +1,11 @@
-CS1132_SemesterProject
+Social-ME
 ======================
 
-Final Project for CS1132 - Data Structures and Software Design. Creation of single-user based social networking application. Implemented largely through creation of data files and imports/exports.
+Creation of single-user based social networking application. 
+<br>Implemented largely through creation of data files and imports/exports.
+
+Read README.txt for more information.
+
+Data Structures and Software Design (CS 1132) Final Project.
+
+
